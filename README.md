@@ -12,7 +12,7 @@ I have experience in several languages:
 - Lua
 - Python
 ## Interests
-- Game Development/Design in Roblox Studio (<img src="https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706"/>)
+- Game Development/Design in Roblox Studio (<img src="https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706" width="20"/>)
 - Creating QoL apps
     + Minecraft server maker
     + Eaglercraft lan server
