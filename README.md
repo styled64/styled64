@@ -7,7 +7,7 @@ I am a software enthusiast, programmer, and a creative thinker.
 ## Programming Languages
 
 I have experience in several languages:
-- HTML/CSS     | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" /> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="20" />
+- HTML/CSS     | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="20" /> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="20" />
 - JavaScript   | <img src="https://github.com/user-attachments/assets/e78c836a-0224-4798-a415-42097db74bf9" width="20" />
 - Lua          | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="20" />
 - Python       | <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" />
