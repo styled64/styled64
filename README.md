@@ -26,5 +26,5 @@ I have experience in several languages:
     + Half-Life 2 <img src="https://developer.valvesoftware.com/w/images/thumb/6/60/Hl2_icon.png/18px-Hl2_icon.png" width="20"/>
 
 ## Devices
-- Linux <img src="" width="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20"/>
+- Linux <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20"/>
 - Windows <img src="https://preview.redd.it/ne6ukkej06t71.png?width=640&crop=smart&auto=webp&s=47bfffc51d6b6445538bc4c44410c816c6287091" width="20"/>
