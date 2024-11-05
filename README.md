@@ -1,6 +1,5 @@
-
 # Styled64
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 I am a software enthusiast, programmer, and a creative thinker.
 - styled64@proton.me <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width="20"/>
 
@@ -22,6 +21,5 @@ I have experience in several languages:
     + SQL <img src="https://static-00.iconduck.com/assets.00/office-database-icon-1966x2048-mah3mrgd.png" width="20"/>
 - Playing games with friends
 - Creating and designing maps in Hammer (<img src="https://developer.valvesoftware.com/w/images/thumb/4/4f/Icon-Hammer_4.x.png/16px-Icon-Hammer_4.x.png"/>) for source games
-    + Portal 2
-    + Half-Life 2
-     
+    + Portal 2 <img src="https://developer.valvesoftware.com/w/images/thumb/3/3c/Portal2_icon.png/16px-Portal2_icon.png" width="20"/>
+    + Half-Life 2 <img src="https://developer.valvesoftware.com/w/images/thumb/6/60/Hl2_icon.png/18px-Hl2_icon.png" width="20"/>
