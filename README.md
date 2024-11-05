@@ -1,10 +1,10 @@
 
 # Styled64
-
-I am a software enthusiast, programmer, and a creative thinker.
-
-- styled64@proton.me <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width="20"/>
-## Programming Languages
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃  I am a software enthusiast, programmer, and a creative thinker.
+┃
+┣  - styled64@proton.me <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width="20"/>
+┃  ## Programming Languages
 
 I have experience in several languages:
 - HTML/CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="20" /> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="20" />
