@@ -1,7 +1,7 @@
 # Styled64
 
 I am a software enthusiast, programmer, and a creative thinker.
-- styled64@proton.me <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width="20"/>
+styled64@proton.me    <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width="20"/>
 
 ## Programming Languages
 
